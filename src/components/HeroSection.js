@@ -15,7 +15,7 @@ function HeroSection() {
                 <Button className="btns" buttonStyle="btn--primary" buttonSize="btn--large">WATCH TRAILER <i className="far fa-play-circle"></i></Button>
             </div>
         </div>
-    )
+    ) 
 }
 
 export default HeroSection;
